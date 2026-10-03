@@ -31,7 +31,7 @@ Después comprobé el contenido del archivo y confirmé que todo se habia guarda
 
 ### Captura de la configuración global
 
-![Configuración de gitignore global](capturas/global.png)
+![Configuración de gitignore global](capturas/1.png)
 
 ---
 
@@ -54,7 +54,7 @@ Ninguno de estos archivos apareció como pendiente de añadir, por lo que las re
 
 ### Captura de la prueba global
 
-![Prueba de gitignore global](capturas/prueba-global.png)
+![Prueba de gitignore global](capturas/2.png)
 
 ---
 
@@ -82,7 +82,7 @@ Funciones de cada regla:
 
 ### Captura del .gitignore local
 
-![Configuración de gitignore local](capturas/gitignore-local.png)
+![Configuración de gitignore local](capturas/3.png)
 
 ---
 
@@ -124,7 +124,7 @@ Esto pasa porque `dir1/info.txt` se permite por la regla con `!` y `dir2/otros.p
 
 ### Captura del funcionamiento del .gitignore local
 
-![Prueba de gitignore local](capturas/prueba-local.png)
+![Prueba de gitignore local](capturas/4.png)
 
 ---
 
